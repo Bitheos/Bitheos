@@ -1,9 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=BITHEOS&fontSize=80&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Software%20Developer&descAlignY=55&descAlign=54&descColor=FFFFFF&descSize=30)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there,+I'm+Bryan García;Software+Developer;Open+Source+Enthusiast&center=true&width=500&height=50&color=333333&vCenter=true&size=30" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=random&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bryan+García;Software+Developer;Open+Source+Enthusiast"
+    alt="Typing Animation"
+  />
 </div>
 
 Welcome to my profile! I'm a developer passionate about creating efficient and scalable solutions. I love learning new technologies and collaborating on open-source projects. I like so much to do scripts about any kind of task and help to automatize them.
@@ -25,9 +26,11 @@ Welcome to my profile! I'm a developer passionate about creating efficient and s
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <div>
   <center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitheos&layout=compact&theme=tokyonight" alt="Top Langs" />
   </center>
+  </div>
 </p>
 
 
