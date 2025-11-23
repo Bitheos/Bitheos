@@ -1,14 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=BITHEOS&fontSize=80&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Software%20Developer&descAlignY=55&descAlign=54&descColor=FFFFFF&descSize=30)
-
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=random&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bryan+García;Software+Developer;Open+Source+Enthusiast"
-    alt="Typing Animation"
-  />
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=BITHEOS&fontSize=80&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Software%20Developer&descAlignY=55&descAlign=54&descColor=FFFFFF&descSize=30)
+
+  <div align="center">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=random&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bryan+García;Software+Developer;Open+Source+Enthusiast"
+      alt="Typing Animation"
+    />
+  </div>
+
+  Welcome to my profile! I'm a developer passionate about creating efficient and scalable solutions. I love learning new technologies and collaborating on open-source projects. I like so much to do scripts about any kind of task and help to automatize them.
 </div>
-
-Welcome to my profile! I'm a developer passionate about creating efficient and scalable solutions. I love learning new technologies and collaborating on open-source projects. I like so much to do scripts about any kind of task and help to automatize them.
-
 ---
 
 ### My Contributions
