@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=random&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bryan+García;Software+Developer;Open+Source+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=666&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bryan+García;Software+Developer;Open+Source+Enthusiast"
     alt="Typing Animation"
   />
 </div>
@@ -24,9 +24,10 @@ Welcome to my profile! I'm a developer passionate about creating efficient and s
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitheos&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
+<center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitheos&layout=compact&theme=tokyonight" alt="Top Langs" />
+</center>
 
 ---
 
