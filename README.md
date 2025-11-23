@@ -25,9 +25,9 @@ Welcome to my profile! I'm a developer passionate about creating efficient and s
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-<center>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitheos&layout=compact&theme=tokyonight" alt="Top Langs" />
-</center>
+</div>
 
 ---
 
