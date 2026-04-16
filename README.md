@@ -35,4 +35,4 @@ Welcome to my profile! I'm a developer passionate about creating efficient and s
 
 - **LinkedIn:** [Bryan García](https://linkedin.com/in/bryangarciad)
 - **Email:** bryangarciad@gmail.com
-- **Web:** [bitheos](https://bitheos.vercel.app/)
+- **Web:** [bitheos](https://bitheos.vercel.app/) (under construction)
